@@ -1,5 +1,5 @@
 # finance_tracker
-
+#### Check requirements file for more context. Run th run_all.py file
 The Finance Tracker's automation architecture is as follows:
 
 Aim: Build a basic script that checks emails for bank notification and organises my important bank transactions.
